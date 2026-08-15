@@ -3,4 +3,4 @@ The timer can be paused.
 Once a task is completed, you can mark it.
 Everything gets saved automatically, so your tasks stay even after refreshing.
 Contains dark/light mode.
-Link: https://udtsau.github.io/Study-Planner/
+Link: https://udsau.github.io/Study-Planner/
