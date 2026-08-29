@@ -12,4 +12,4 @@ A web app to structure your study sessions, track tasks, and stay on timer witho
 
 ## Note
 
-I built this for my own daily use after getting frustrated by switching between separate apps for task lists and timers. Most productivity sites give you *either* a to-do list or a pomodoro timer, but rarely both on the same screen. I wanted a single, unified view where I could see my task list right alongside the timer keeping me focused.
+I built this for my own daily use after getting frustrated by switching between separate apps for task lists and timers. Most productivity sites give you either a to-do list or a pomodoro timer, but rarely both on the same screen. I wanted a single, unified view where I could see my task list right alongside the timer keeping me focused! :]
