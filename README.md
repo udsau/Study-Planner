@@ -1,11 +1,15 @@
 # Study Planner
 
-A simple productivity tool that lets you plan study tasks and stay focused with a built in study timer. 
+A clutter-free web app to structure your study sessions, track tasks, and stay on timer without getting distracted by unnecessary bloat.
 
-## Features
-- The timer can be paused. 
-- Once a task is completed, you can mark it.
-- Everything gets saved automatically, so your tasks stay even after refreshing.
-- Contains dark/light mode.
+[**Live App**](https://udsau.github.io/Study-Planner/)
 
-**Link:** https://udsau.github.io/Study-Planner/
+## Highlights
+
+- **Focus Timer:** Built-in session timer with quick pause/resume controls.
+- **Persistent Task Checklist:** Mark off completed goals. Tasks auto-save to `localStorage` so your progress stays intact after a refresh.
+- **Theme Toggle:** Switch between Dark and Light mode.
+
+## Note
+
+I built this for my own daily use after getting frustrated by switching between separate apps for task lists and timers. Most productivity sites give you *either* a to-do list or a pomodoro timer, but rarely both on the same screen. I wanted a single, unified view where I could see my task list right alongside the timer keeping me focused.
