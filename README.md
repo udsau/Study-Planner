@@ -1,12 +1,12 @@
 # Study Planner
 
-A clutter-free web app to structure your study sessions, track tasks, and stay on timer without getting distracted by unnecessary bloat.
+A web app to structure your study sessions, track tasks, and stay on timer without getting distracted by unnecessary bloat.
 
 [**Live App**](https://udsau.github.io/Study-Planner/)
 
 ## Highlights
 
-- **Focus Timer:** Built-in session timer with quick pause/resume controls.
+- **Focus Timer:** Built-in session timer with pause/resume controls.
 - **Persistent Task Checklist:** Mark off completed goals. Tasks auto-save to `localStorage` so your progress stays intact after a refresh.
 - **Theme Toggle:** Switch between Dark and Light mode.
 
