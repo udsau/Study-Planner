@@ -15,7 +15,7 @@ A web app to structure your study sessions, track tasks, and stay on timer witho
 - HTML
 - CSS
 - JavaScript
--`localStorage`
+- `localStorage`
 
 ## Note
 
